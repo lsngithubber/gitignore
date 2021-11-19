@@ -1,0 +1,3 @@
+first file in .gitignore folder
+seconf file in .gitignorefolder
+third file in .gitignore folder
