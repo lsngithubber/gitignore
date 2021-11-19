@@ -6,4 +6,4 @@ bin/
 
 #ignore files with .tmp extenction
 
-.tmp
+*.tmp
